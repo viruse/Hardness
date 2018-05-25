@@ -1,404 +1,404 @@
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-16.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-17.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-22.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-28.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-29.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-30.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-26.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-23.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-24.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-25.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-14.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-00.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-01.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-03.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-23-59.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-23-55.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-23-57.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-23-58.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-04.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-11.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-12.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-13.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-10.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-06.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-07.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-24-09.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-36.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-37.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-39.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-35.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-31.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-32.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-33.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-40.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-46.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-47.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-48.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-45.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-41.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-42.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-44.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-29.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-14.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-15.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-16.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-12.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-08.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-10.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-11.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-17.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-25.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-27.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-28.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-23.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-19.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-20.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-22.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-49.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-19.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-20.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-21.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-18.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-14.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-15.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-16.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-58.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-31-06.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-31-07.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-31-09.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-31-04.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-31-00.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-31-01.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-31-03.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-12.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-56.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-58.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-00.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-55.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-51.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-52.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-53.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-01.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-08.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-09.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-11.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-07.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-03.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-04.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-30-05.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-16.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-17.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-19.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-14.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-07.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-09.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-10.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-22.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-20.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-22.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-23.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-19.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-30.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-35.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-18.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-03.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-49.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-51.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-52.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-48.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-45.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-46.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-47.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-53.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-59.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-00.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-27-02.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-58.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-54.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-55.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-26-57.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-24.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-53.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-54.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-55.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-51.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-47.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-49.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-50.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-56.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-03.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-04.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-07.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-02.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-57.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-59.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-29-00.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-46.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-31.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-33.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-34.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-30.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-26.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-27.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-28.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-35.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-42.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-43.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-45.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-40.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-36.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-38.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-28-39.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-18.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-180.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-181.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-179.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-176.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-177.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-178.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-182.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-188.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-189.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-19.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-187.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-184.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-185.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-186.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-175.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-163.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-164.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-165.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-162.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-16.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-160.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-161.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-166.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-171.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-172.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-173.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-170.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-167.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-168.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-169.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-190.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-33.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-34.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-35.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-32.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-3.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-30.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-31.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-36.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-41.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-42.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-43.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-40.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-37.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-39.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-4.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-29.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-195.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-2.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-20.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-194.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-191.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-192.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-193.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-21.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-26.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-27.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-28.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-25.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-22.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-23.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-24.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-119.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-12.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-120.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-118.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-115.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-116.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-117.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-121.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-126.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-127.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-128.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-125.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-122.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-123.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-124.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-114.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-103.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-104.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-105.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-102.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-10.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-100.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-101.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-106.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-110.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-112.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-113.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-11.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-107.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-108.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-109.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-129.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-149.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-15.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-150.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-148.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-144.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-146.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-147.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-151.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-157.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-158.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-159.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-156.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-153.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-154.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-155.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-143.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-133.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-134.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-135.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-132.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-13.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-130.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-131.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-136.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-140.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-141.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-142.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-14.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-137.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-138.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-139.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-00.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-01.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-02.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-59.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-56.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-57.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-58.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-03.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-08.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-09.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-10.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-07.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-04.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-05.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-06.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-54.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-42.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-43.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-44.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-41.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-38.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-39.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-40.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-45.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-51.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-52.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-53.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-49.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-46.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-47.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-48.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-11.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-05-36.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-05-42.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-05-49.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-05-35.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-29.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-31.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-32.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-05-51.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-05-58.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-22-04.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-22-23.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-05-57.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-05-52.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-05-54.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-05-55.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-28.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-16.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-17.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-19.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-15.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-12.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-13.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-14.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-20.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-25.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-26.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-27.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-24.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-21.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-22.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-02-23.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-64.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-65.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-66.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-63.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-60.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-61.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-62.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-67.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-71.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-72.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-73.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-70.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-68.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-69.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-7.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-6.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-49.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-5.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-50.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-48.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-44.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-46.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-47.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-51.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-56.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-57.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-58.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-55.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-52.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-53.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-54.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-74.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-94.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-95.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-96.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-93.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-90.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-91.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-92.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-97.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-00-50.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-00-53.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-01-36.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\Fri Nov 03 19-00-06.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-98.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-99.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103_1.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-9.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-8.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-80.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-81.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-79.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-75.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-76.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-78.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-82.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-87.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-88.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-89.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-86.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-83.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-84.jpg
-C:\Users\Administrator\Desktop\quick\quick\YoloLabelTool\bin\Debug\output\image\1103-85.jpg
+/darknet/work/data/Fri Nov 03 19-24-16.jpg
+/darknet/work/data/Fri Nov 03 19-24-17.jpg
+/darknet/work/data/Fri Nov 03 19-24-22.jpg
+/darknet/work/data/Fri Nov 03 19-24-28.jpg
+/darknet/work/data/Fri Nov 03 19-24-29.jpg
+/darknet/work/data/Fri Nov 03 19-24-30.jpg
+/darknet/work/data/Fri Nov 03 19-24-26.jpg
+/darknet/work/data/Fri Nov 03 19-24-23.jpg
+/darknet/work/data/Fri Nov 03 19-24-24.jpg
+/darknet/work/data/Fri Nov 03 19-24-25.jpg
+/darknet/work/data/Fri Nov 03 19-24-14.jpg
+/darknet/work/data/Fri Nov 03 19-24-00.jpg
+/darknet/work/data/Fri Nov 03 19-24-01.jpg
+/darknet/work/data/Fri Nov 03 19-24-03.jpg
+/darknet/work/data/Fri Nov 03 19-23-59.jpg
+/darknet/work/data/Fri Nov 03 19-23-55.jpg
+/darknet/work/data/Fri Nov 03 19-23-57.jpg
+/darknet/work/data/Fri Nov 03 19-23-58.jpg
+/darknet/work/data/Fri Nov 03 19-24-04.jpg
+/darknet/work/data/Fri Nov 03 19-24-11.jpg
+/darknet/work/data/Fri Nov 03 19-24-12.jpg
+/darknet/work/data/Fri Nov 03 19-24-13.jpg
+/darknet/work/data/Fri Nov 03 19-24-10.jpg
+/darknet/work/data/Fri Nov 03 19-24-06.jpg
+/darknet/work/data/Fri Nov 03 19-24-07.jpg
+/darknet/work/data/Fri Nov 03 19-24-09.jpg
+/darknet/work/data/Fri Nov 03 19-29-36.jpg
+/darknet/work/data/Fri Nov 03 19-29-37.jpg
+/darknet/work/data/Fri Nov 03 19-29-39.jpg
+/darknet/work/data/Fri Nov 03 19-29-35.jpg
+/darknet/work/data/Fri Nov 03 19-29-31.jpg
+/darknet/work/data/Fri Nov 03 19-29-32.jpg
+/darknet/work/data/Fri Nov 03 19-29-33.jpg
+/darknet/work/data/Fri Nov 03 19-29-40.jpg
+/darknet/work/data/Fri Nov 03 19-29-46.jpg
+/darknet/work/data/Fri Nov 03 19-29-47.jpg
+/darknet/work/data/Fri Nov 03 19-29-48.jpg
+/darknet/work/data/Fri Nov 03 19-29-45.jpg
+/darknet/work/data/Fri Nov 03 19-29-41.jpg
+/darknet/work/data/Fri Nov 03 19-29-42.jpg
+/darknet/work/data/Fri Nov 03 19-29-44.jpg
+/darknet/work/data/Fri Nov 03 19-29-29.jpg
+/darknet/work/data/Fri Nov 03 19-29-14.jpg
+/darknet/work/data/Fri Nov 03 19-29-15.jpg
+/darknet/work/data/Fri Nov 03 19-29-16.jpg
+/darknet/work/data/Fri Nov 03 19-29-12.jpg
+/darknet/work/data/Fri Nov 03 19-29-08.jpg
+/darknet/work/data/Fri Nov 03 19-29-10.jpg
+/darknet/work/data/Fri Nov 03 19-29-11.jpg
+/darknet/work/data/Fri Nov 03 19-29-17.jpg
+/darknet/work/data/Fri Nov 03 19-29-25.jpg
+/darknet/work/data/Fri Nov 03 19-29-27.jpg
+/darknet/work/data/Fri Nov 03 19-29-28.jpg
+/darknet/work/data/Fri Nov 03 19-29-23.jpg
+/darknet/work/data/Fri Nov 03 19-29-19.jpg
+/darknet/work/data/Fri Nov 03 19-29-20.jpg
+/darknet/work/data/Fri Nov 03 19-29-22.jpg
+/darknet/work/data/Fri Nov 03 19-29-49.jpg
+/darknet/work/data/Fri Nov 03 19-30-19.jpg
+/darknet/work/data/Fri Nov 03 19-30-20.jpg
+/darknet/work/data/Fri Nov 03 19-30-21.jpg
+/darknet/work/data/Fri Nov 03 19-30-18.jpg
+/darknet/work/data/Fri Nov 03 19-30-14.jpg
+/darknet/work/data/Fri Nov 03 19-30-15.jpg
+/darknet/work/data/Fri Nov 03 19-30-16.jpg
+/darknet/work/data/Fri Nov 03 19-30-58.jpg
+/darknet/work/data/Fri Nov 03 19-31-06.jpg
+/darknet/work/data/Fri Nov 03 19-31-07.jpg
+/darknet/work/data/Fri Nov 03 19-31-09.jpg
+/darknet/work/data/Fri Nov 03 19-31-04.jpg
+/darknet/work/data/Fri Nov 03 19-31-00.jpg
+/darknet/work/data/Fri Nov 03 19-31-01.jpg
+/darknet/work/data/Fri Nov 03 19-31-03.jpg
+/darknet/work/data/Fri Nov 03 19-30-12.jpg
+/darknet/work/data/Fri Nov 03 19-29-56.jpg
+/darknet/work/data/Fri Nov 03 19-29-58.jpg
+/darknet/work/data/Fri Nov 03 19-30-00.jpg
+/darknet/work/data/Fri Nov 03 19-29-55.jpg
+/darknet/work/data/Fri Nov 03 19-29-51.jpg
+/darknet/work/data/Fri Nov 03 19-29-52.jpg
+/darknet/work/data/Fri Nov 03 19-29-53.jpg
+/darknet/work/data/Fri Nov 03 19-30-01.jpg
+/darknet/work/data/Fri Nov 03 19-30-08.jpg
+/darknet/work/data/Fri Nov 03 19-30-09.jpg
+/darknet/work/data/Fri Nov 03 19-30-11.jpg
+/darknet/work/data/Fri Nov 03 19-30-07.jpg
+/darknet/work/data/Fri Nov 03 19-30-03.jpg
+/darknet/work/data/Fri Nov 03 19-30-04.jpg
+/darknet/work/data/Fri Nov 03 19-30-05.jpg
+/darknet/work/data/Fri Nov 03 19-27-16.jpg
+/darknet/work/data/Fri Nov 03 19-27-17.jpg
+/darknet/work/data/Fri Nov 03 19-27-19.jpg
+/darknet/work/data/Fri Nov 03 19-27-14.jpg
+/darknet/work/data/Fri Nov 03 19-27-07.jpg
+/darknet/work/data/Fri Nov 03 19-27-09.jpg
+/darknet/work/data/Fri Nov 03 19-27-10.jpg
+/darknet/work/data/Fri Nov 03 19-27-22.jpg
+/darknet/work/data/Fri Nov 03 19-28-20.jpg
+/darknet/work/data/Fri Nov 03 19-28-22.jpg
+/darknet/work/data/Fri Nov 03 19-28-23.jpg
+/darknet/work/data/Fri Nov 03 19-28-19.jpg
+/darknet/work/data/Fri Nov 03 19-27-30.jpg
+/darknet/work/data/Fri Nov 03 19-27-35.jpg
+/darknet/work/data/Fri Nov 03 19-28-18.jpg
+/darknet/work/data/Fri Nov 03 19-27-03.jpg
+/darknet/work/data/Fri Nov 03 19-26-49.jpg
+/darknet/work/data/Fri Nov 03 19-26-51.jpg
+/darknet/work/data/Fri Nov 03 19-26-52.jpg
+/darknet/work/data/Fri Nov 03 19-26-48.jpg
+/darknet/work/data/Fri Nov 03 19-26-45.jpg
+/darknet/work/data/Fri Nov 03 19-26-46.jpg
+/darknet/work/data/Fri Nov 03 19-26-47.jpg
+/darknet/work/data/Fri Nov 03 19-26-53.jpg
+/darknet/work/data/Fri Nov 03 19-26-59.jpg
+/darknet/work/data/Fri Nov 03 19-27-00.jpg
+/darknet/work/data/Fri Nov 03 19-27-02.jpg
+/darknet/work/data/Fri Nov 03 19-26-58.jpg
+/darknet/work/data/Fri Nov 03 19-26-54.jpg
+/darknet/work/data/Fri Nov 03 19-26-55.jpg
+/darknet/work/data/Fri Nov 03 19-26-57.jpg
+/darknet/work/data/Fri Nov 03 19-28-24.jpg
+/darknet/work/data/Fri Nov 03 19-28-53.jpg
+/darknet/work/data/Fri Nov 03 19-28-54.jpg
+/darknet/work/data/Fri Nov 03 19-28-55.jpg
+/darknet/work/data/Fri Nov 03 19-28-51.jpg
+/darknet/work/data/Fri Nov 03 19-28-47.jpg
+/darknet/work/data/Fri Nov 03 19-28-49.jpg
+/darknet/work/data/Fri Nov 03 19-28-50.jpg
+/darknet/work/data/Fri Nov 03 19-28-56.jpg
+/darknet/work/data/Fri Nov 03 19-29-03.jpg
+/darknet/work/data/Fri Nov 03 19-29-04.jpg
+/darknet/work/data/Fri Nov 03 19-29-07.jpg
+/darknet/work/data/Fri Nov 03 19-29-02.jpg
+/darknet/work/data/Fri Nov 03 19-28-57.jpg
+/darknet/work/data/Fri Nov 03 19-28-59.jpg
+/darknet/work/data/Fri Nov 03 19-29-00.jpg
+/darknet/work/data/Fri Nov 03 19-28-46.jpg
+/darknet/work/data/Fri Nov 03 19-28-31.jpg
+/darknet/work/data/Fri Nov 03 19-28-33.jpg
+/darknet/work/data/Fri Nov 03 19-28-34.jpg
+/darknet/work/data/Fri Nov 03 19-28-30.jpg
+/darknet/work/data/Fri Nov 03 19-28-26.jpg
+/darknet/work/data/Fri Nov 03 19-28-27.jpg
+/darknet/work/data/Fri Nov 03 19-28-28.jpg
+/darknet/work/data/Fri Nov 03 19-28-35.jpg
+/darknet/work/data/Fri Nov 03 19-28-42.jpg
+/darknet/work/data/Fri Nov 03 19-28-43.jpg
+/darknet/work/data/Fri Nov 03 19-28-45.jpg
+/darknet/work/data/Fri Nov 03 19-28-40.jpg
+/darknet/work/data/Fri Nov 03 19-28-36.jpg
+/darknet/work/data/Fri Nov 03 19-28-38.jpg
+/darknet/work/data/Fri Nov 03 19-28-39.jpg
+/darknet/work/data/1103-18.jpg
+/darknet/work/data/1103-180.jpg
+/darknet/work/data/1103-181.jpg
+/darknet/work/data/1103-179.jpg
+/darknet/work/data/1103-176.jpg
+/darknet/work/data/1103-177.jpg
+/darknet/work/data/1103-178.jpg
+/darknet/work/data/1103-182.jpg
+/darknet/work/data/1103-188.jpg
+/darknet/work/data/1103-189.jpg
+/darknet/work/data/1103-19.jpg
+/darknet/work/data/1103-187.jpg
+/darknet/work/data/1103-184.jpg
+/darknet/work/data/1103-185.jpg
+/darknet/work/data/1103-186.jpg
+/darknet/work/data/1103-175.jpg
+/darknet/work/data/1103-163.jpg
+/darknet/work/data/1103-164.jpg
+/darknet/work/data/1103-165.jpg
+/darknet/work/data/1103-162.jpg
+/darknet/work/data/1103-16.jpg
+/darknet/work/data/1103-160.jpg
+/darknet/work/data/1103-161.jpg
+/darknet/work/data/1103-166.jpg
+/darknet/work/data/1103-171.jpg
+/darknet/work/data/1103-172.jpg
+/darknet/work/data/1103-173.jpg
+/darknet/work/data/1103-170.jpg
+/darknet/work/data/1103-167.jpg
+/darknet/work/data/1103-168.jpg
+/darknet/work/data/1103-169.jpg
+/darknet/work/data/1103-190.jpg
+/darknet/work/data/1103-33.jpg
+/darknet/work/data/1103-34.jpg
+/darknet/work/data/1103-35.jpg
+/darknet/work/data/1103-32.jpg
+/darknet/work/data/1103-3.jpg
+/darknet/work/data/1103-30.jpg
+/darknet/work/data/1103-31.jpg
+/darknet/work/data/1103-36.jpg
+/darknet/work/data/1103-41.jpg
+/darknet/work/data/1103-42.jpg
+/darknet/work/data/1103-43.jpg
+/darknet/work/data/1103-40.jpg
+/darknet/work/data/1103-37.jpg
+/darknet/work/data/1103-39.jpg
+/darknet/work/data/1103-4.jpg
+/darknet/work/data/1103-29.jpg
+/darknet/work/data/1103-195.jpg
+/darknet/work/data/1103-2.jpg
+/darknet/work/data/1103-20.jpg
+/darknet/work/data/1103-194.jpg
+/darknet/work/data/1103-191.jpg
+/darknet/work/data/1103-192.jpg
+/darknet/work/data/1103-193.jpg
+/darknet/work/data/1103-21.jpg
+/darknet/work/data/1103-26.jpg
+/darknet/work/data/1103-27.jpg
+/darknet/work/data/1103-28.jpg
+/darknet/work/data/1103-25.jpg
+/darknet/work/data/1103-22.jpg
+/darknet/work/data/1103-23.jpg
+/darknet/work/data/1103-24.jpg
+/darknet/work/data/1103-119.jpg
+/darknet/work/data/1103-12.jpg
+/darknet/work/data/1103-120.jpg
+/darknet/work/data/1103-118.jpg
+/darknet/work/data/1103-115.jpg
+/darknet/work/data/1103-116.jpg
+/darknet/work/data/1103-117.jpg
+/darknet/work/data/1103-121.jpg
+/darknet/work/data/1103-126.jpg
+/darknet/work/data/1103-127.jpg
+/darknet/work/data/1103-128.jpg
+/darknet/work/data/1103-125.jpg
+/darknet/work/data/1103-122.jpg
+/darknet/work/data/1103-123.jpg
+/darknet/work/data/1103-124.jpg
+/darknet/work/data/1103-114.jpg
+/darknet/work/data/1103-103.jpg
+/darknet/work/data/1103-104.jpg
+/darknet/work/data/1103-105.jpg
+/darknet/work/data/1103-102.jpg
+/darknet/work/data/1103-10.jpg
+/darknet/work/data/1103-100.jpg
+/darknet/work/data/1103-101.jpg
+/darknet/work/data/1103-106.jpg
+/darknet/work/data/1103-110.jpg
+/darknet/work/data/1103-112.jpg
+/darknet/work/data/1103-113.jpg
+/darknet/work/data/1103-11.jpg
+/darknet/work/data/1103-107.jpg
+/darknet/work/data/1103-108.jpg
+/darknet/work/data/1103-109.jpg
+/darknet/work/data/1103-129.jpg
+/darknet/work/data/1103-149.jpg
+/darknet/work/data/1103-15.jpg
+/darknet/work/data/1103-150.jpg
+/darknet/work/data/1103-148.jpg
+/darknet/work/data/1103-144.jpg
+/darknet/work/data/1103-146.jpg
+/darknet/work/data/1103-147.jpg
+/darknet/work/data/1103-151.jpg
+/darknet/work/data/1103-157.jpg
+/darknet/work/data/1103-158.jpg
+/darknet/work/data/1103-159.jpg
+/darknet/work/data/1103-156.jpg
+/darknet/work/data/1103-153.jpg
+/darknet/work/data/1103-154.jpg
+/darknet/work/data/1103-155.jpg
+/darknet/work/data/1103-143.jpg
+/darknet/work/data/1103-133.jpg
+/darknet/work/data/1103-134.jpg
+/darknet/work/data/1103-135.jpg
+/darknet/work/data/1103-132.jpg
+/darknet/work/data/1103-13.jpg
+/darknet/work/data/1103-130.jpg
+/darknet/work/data/1103-131.jpg
+/darknet/work/data/1103-136.jpg
+/darknet/work/data/1103-140.jpg
+/darknet/work/data/1103-141.jpg
+/darknet/work/data/1103-142.jpg
+/darknet/work/data/1103-14.jpg
+/darknet/work/data/1103-137.jpg
+/darknet/work/data/1103-138.jpg
+/darknet/work/data/1103-139.jpg
+/darknet/work/data/Fri Nov 03 19-02-00.jpg
+/darknet/work/data/Fri Nov 03 19-02-01.jpg
+/darknet/work/data/Fri Nov 03 19-02-02.jpg
+/darknet/work/data/Fri Nov 03 19-01-59.jpg
+/darknet/work/data/Fri Nov 03 19-01-56.jpg
+/darknet/work/data/Fri Nov 03 19-01-57.jpg
+/darknet/work/data/Fri Nov 03 19-01-58.jpg
+/darknet/work/data/Fri Nov 03 19-02-03.jpg
+/darknet/work/data/Fri Nov 03 19-02-08.jpg
+/darknet/work/data/Fri Nov 03 19-02-09.jpg
+/darknet/work/data/Fri Nov 03 19-02-10.jpg
+/darknet/work/data/Fri Nov 03 19-02-07.jpg
+/darknet/work/data/Fri Nov 03 19-02-04.jpg
+/darknet/work/data/Fri Nov 03 19-02-05.jpg
+/darknet/work/data/Fri Nov 03 19-02-06.jpg
+/darknet/work/data/Fri Nov 03 19-01-54.jpg
+/darknet/work/data/Fri Nov 03 19-01-42.jpg
+/darknet/work/data/Fri Nov 03 19-01-43.jpg
+/darknet/work/data/Fri Nov 03 19-01-44.jpg
+/darknet/work/data/Fri Nov 03 19-01-41.jpg
+/darknet/work/data/Fri Nov 03 19-01-38.jpg
+/darknet/work/data/Fri Nov 03 19-01-39.jpg
+/darknet/work/data/Fri Nov 03 19-01-40.jpg
+/darknet/work/data/Fri Nov 03 19-01-45.jpg
+/darknet/work/data/Fri Nov 03 19-01-51.jpg
+/darknet/work/data/Fri Nov 03 19-01-52.jpg
+/darknet/work/data/Fri Nov 03 19-01-53.jpg
+/darknet/work/data/Fri Nov 03 19-01-49.jpg
+/darknet/work/data/Fri Nov 03 19-01-46.jpg
+/darknet/work/data/Fri Nov 03 19-01-47.jpg
+/darknet/work/data/Fri Nov 03 19-01-48.jpg
+/darknet/work/data/Fri Nov 03 19-02-11.jpg
+/darknet/work/data/Fri Nov 03 19-05-36.jpg
+/darknet/work/data/Fri Nov 03 19-05-42.jpg
+/darknet/work/data/Fri Nov 03 19-05-49.jpg
+/darknet/work/data/Fri Nov 03 19-05-35.jpg
+/darknet/work/data/Fri Nov 03 19-02-29.jpg
+/darknet/work/data/Fri Nov 03 19-02-31.jpg
+/darknet/work/data/Fri Nov 03 19-02-32.jpg
+/darknet/work/data/Fri Nov 03 19-05-51.jpg
+/darknet/work/data/Fri Nov 03 19-05-58.jpg
+/darknet/work/data/Fri Nov 03 19-22-04.jpg
+/darknet/work/data/Fri Nov 03 19-22-23.jpg
+/darknet/work/data/Fri Nov 03 19-05-57.jpg
+/darknet/work/data/Fri Nov 03 19-05-52.jpg
+/darknet/work/data/Fri Nov 03 19-05-54.jpg
+/darknet/work/data/Fri Nov 03 19-05-55.jpg
+/darknet/work/data/Fri Nov 03 19-02-28.jpg
+/darknet/work/data/Fri Nov 03 19-02-16.jpg
+/darknet/work/data/Fri Nov 03 19-02-17.jpg
+/darknet/work/data/Fri Nov 03 19-02-19.jpg
+/darknet/work/data/Fri Nov 03 19-02-15.jpg
+/darknet/work/data/Fri Nov 03 19-02-12.jpg
+/darknet/work/data/Fri Nov 03 19-02-13.jpg
+/darknet/work/data/Fri Nov 03 19-02-14.jpg
+/darknet/work/data/Fri Nov 03 19-02-20.jpg
+/darknet/work/data/Fri Nov 03 19-02-25.jpg
+/darknet/work/data/Fri Nov 03 19-02-26.jpg
+/darknet/work/data/Fri Nov 03 19-02-27.jpg
+/darknet/work/data/Fri Nov 03 19-02-24.jpg
+/darknet/work/data/Fri Nov 03 19-02-21.jpg
+/darknet/work/data/Fri Nov 03 19-02-22.jpg
+/darknet/work/data/Fri Nov 03 19-02-23.jpg
+/darknet/work/data/1103-64.jpg
+/darknet/work/data/1103-65.jpg
+/darknet/work/data/1103-66.jpg
+/darknet/work/data/1103-63.jpg
+/darknet/work/data/1103-60.jpg
+/darknet/work/data/1103-61.jpg
+/darknet/work/data/1103-62.jpg
+/darknet/work/data/1103-67.jpg
+/darknet/work/data/1103-71.jpg
+/darknet/work/data/1103-72.jpg
+/darknet/work/data/1103-73.jpg
+/darknet/work/data/1103-70.jpg
+/darknet/work/data/1103-68.jpg
+/darknet/work/data/1103-69.jpg
+/darknet/work/data/1103-7.jpg
+/darknet/work/data/1103-6.jpg
+/darknet/work/data/1103-49.jpg
+/darknet/work/data/1103-5.jpg
+/darknet/work/data/1103-50.jpg
+/darknet/work/data/1103-48.jpg
+/darknet/work/data/1103-44.jpg
+/darknet/work/data/1103-46.jpg
+/darknet/work/data/1103-47.jpg
+/darknet/work/data/1103-51.jpg
+/darknet/work/data/1103-56.jpg
+/darknet/work/data/1103-57.jpg
+/darknet/work/data/1103-58.jpg
+/darknet/work/data/1103-55.jpg
+/darknet/work/data/1103-52.jpg
+/darknet/work/data/1103-53.jpg
+/darknet/work/data/1103-54.jpg
+/darknet/work/data/1103-74.jpg
+/darknet/work/data/1103-94.jpg
+/darknet/work/data/1103-95.jpg
+/darknet/work/data/1103-96.jpg
+/darknet/work/data/1103-93.jpg
+/darknet/work/data/1103-90.jpg
+/darknet/work/data/1103-91.jpg
+/darknet/work/data/1103-92.jpg
+/darknet/work/data/1103-97.jpg
+/darknet/work/data/Fri Nov 03 19-00-50.jpg
+/darknet/work/data/Fri Nov 03 19-00-53.jpg
+/darknet/work/data/Fri Nov 03 19-01-36.jpg
+/darknet/work/data/Fri Nov 03 19-00-06.jpg
+/darknet/work/data/1103-98.jpg
+/darknet/work/data/1103-99.jpg
+/darknet/work/data/1103_1.jpg
+/darknet/work/data/1103-9.jpg
+/darknet/work/data/1103-8.jpg
+/darknet/work/data/1103-80.jpg
+/darknet/work/data/1103-81.jpg
+/darknet/work/data/1103-79.jpg
+/darknet/work/data/1103-75.jpg
+/darknet/work/data/1103-76.jpg
+/darknet/work/data/1103-78.jpg
+/darknet/work/data/1103-82.jpg
+/darknet/work/data/1103-87.jpg
+/darknet/work/data/1103-88.jpg
+/darknet/work/data/1103-89.jpg
+/darknet/work/data/1103-86.jpg
+/darknet/work/data/1103-83.jpg
+/darknet/work/data/1103-84.jpg
+/darknet/work/data/1103-85.jpg
